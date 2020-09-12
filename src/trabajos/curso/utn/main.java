@@ -17,7 +17,7 @@ public class main {
     public static void main(String[] args) {
        TP1Ej1 Ej1 = new TP1Ej1();
        //Ejercicio 1
-       Ej1.ingresoTeclado();
+ /*      Ej1.ingresoTeclado();
        //Ejecicio 2
        Ej1.ingresoNombre();
        //Ejercicio 3
@@ -32,6 +32,13 @@ public class main {
        Ej1.pitagoras();
        //Ejercicio 8
        Ej1.volumenEsfera();
+*/
+    TP2_Ej_9_17 tp2 = new TP2_Ej_9_17();
+     //tp2.par();
+     //tp2.mult10();
+     //tp2.mayuscula();
+     //tp2.caracteresIguales();
+     //tp2.mayorMenor();
     }
     
 }
