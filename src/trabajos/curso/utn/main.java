@@ -39,6 +39,10 @@ public class main {
      //tp2.mayuscula();
      //tp2.caracteresIguales();
      //tp2.mayorMenor();
+     //tp2.mesesSel();
+     //tp2.contadWhil();
+     //tp2.contadFor();
+     tp2.contadDowhil();
     }
     
 }
